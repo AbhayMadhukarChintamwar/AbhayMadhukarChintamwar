@@ -1,144 +1,233 @@
- <h1>Hi </h1> 
- <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio | Your Name</title>
-  <style>
-    *{margin:0;padding:0;box-sizing:border-box;font-family:Arial, Helvetica, sans-serif}
-    body{line-height:1.6;background:#f5f7fb;color:#333}
-    header{background:#111;color:#fff;padding:20px 0}
-    .container{width:90%;max-width:1100px;margin:auto}
-    nav{display:flex;justify-content:space-between;align-items:center}
-    nav h1{font-size:24px}
-    nav ul{display:flex;list-style:none}
-    nav ul li{margin-left:20px}
-    nav ul li a{color:#fff;text-decoration:none;font-size:16px}
+# GitHub Profile 3D Contrib
 
-    .hero{padding:60px 0;text-align:center}
-    .hero img{width:150px;height:150px;border-radius:50%;object-fit:cover;border:5px solid #111}
-    .hero h2{margin-top:20px;font-size:32px}
-    .hero p{margin-top:10px;color:#555}
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
 
-    .section{padding:50px 0}
-    .section h2{text-align:center;margin-bottom:30px;font-size:28px}
+<!-- Language code order (except English) -->
+English (en) |
+[Deutsch (de)](docs/README.de.md) |
+[Español (es)](docs/README.es.md) |
+[Français (fr)](docs/README.fr.md) |
+[日本語 (ja)](docs/README.ja.md) |
+[한국어 (ko)](docs/README.ko.md) |
+[Português (pt-BR)](docs/README.pt-br.md) |
+[Português (pt)](docs/README.pt.md) |
+[Русский (ru)](docs/README.ru.md) |
+[简体中文 (zh-CN)](docs/README.zh-CN.md) |
+[繁體中文 (zh-TW)](docs/README.zh-TW.md) |
 
-    .skills{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:20px}
-    .card{background:#fff;padding:20px;border-radius:10px;text-align:center;box-shadow:0 4px 10px rgba(0,0,0,0.08)}
+<!--
+> [!NOTE]
+> This translation was generated with machine translation.
+> It may contain errors or unnatural expressions.
+> Contributions to improve the translation are welcome!
+ -->
 
-    .projects{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:25px}
+## Overview
 
-    footer{background:#111;color:#fff;text-align:center;padding:20px;margin-top:40px}
+This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 
-    @media(max-width:600px){
-      nav ul{display:none}
-      .hero h2{font-size:24px}
-    }
-  </style>
-</head>
-<body>
+## How to use (GitHub Actions) - Basic
 
-<header>
-  <div class="container">
-    <nav>
-      <h1>My Portfolio</h1>
-      <ul>
-        <li><a href="#about">About</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </nav>
-  </div>
-</header>
+This GitHub Action generates your github profile 3d contribution calendar and commits to your repo.
+After adding the GitHub Action, the workflow runs automatically once a day.
+You can also trigger the workflow manually.
 
-<section class="hero">
-  <div class="container">
-    <img src="https://via.placeholder.com/150" alt="profile" />
-    <h2>Your Name</h2>
-    <p>AI/ML & Data Science Enthusiast | Web Developer</p>
-  </div>
-</section>
+### Step 1. Create special profile repository
 
-<section id="about" class="section">
-  <div class="container">
-    <h2>About Me</h2>
-    <p style="text-align:center;max-width:700px;margin:auto">
-      I am passionate about Artificial Intelligence, Machine Learning, and Web Development. I love building modern, responsive, and user‑friendly applications.
-    </p>
-  </div>
-</section>
+Create a repository on GitHub with the same name as your username.
 
-<section id="skills" class="section">
-  <div class="container">
-    <h2>Skills</h2>
-    <div class="skills">
-      <div class="card">HTML</div>
-      <div class="card">CSS</div>
-      <div class="card">JavaScript</div>
-      <div class="card">Python</div>
-      <div class="card">Machine Learning</div>
-      <div class="card">Node.js</div>
-    </div>
-  </div>
-</section>
+- For example, if the username is `octocat`, create a repository named `octocat/octocat`.
+- See also: [Managing your profile README](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
 
-<section id="projects" class="section">
-  <div class="container">
-    <h2>Projects</h2>
-    <div class="projects">
-      <div class="card">
-        <h3>AI Chatbot</h3>
-        <p>Smart chatbot using NLP and Python.</p>
-      </div>
-      <div class="card">
-        <h3>Portfolio Website</h3>
-        <p>Responsive personal portfolio using HTML & CSS.</p>
-      </div>
-      <div class="card">
-        <h3>ML Prediction App</h3>
-        <p>Machine learning web application.</p>
-      </div>
-    </div>
-  </div>
-</section>
+In this repository, follow the steps below.
 
-<section id="contact" class="section">
-  <div class="container">
-    <h2>Contact</h2>
-    <p style="text-align:center">
-      Email: your@email.com <br />
-      GitHub: github.com/yourusername
-    </p>
-  </div>
-</section>
+### Step 2. Create workflow file
 
-<footer>
-  <p>© 2026 Your Name | All Rights Reserved</p>
-</footer>
+Create a workflow file like the one below.
 
-</body>
-</html>
+- `.github/workflows/profile-3d.yml`
 
-<!-- <h1 align="center">Hi 👋, I'm Abhay Chintamwar</h1>
-<h3 align="center">Software Engineer</h3>
+```yaml:.github/workflows/profile-3d.yml
+name: GitHub-Profile-3D-Contrib
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymadhukarchintamwar&label=Profile%20views&color=0e75b6&style=flat" alt="abhaymadhukarchintamwar" /> </p>
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaymadhukarchintamwa](https://media.licdn.com/dms/image/v2/D5603AQF_XHGb6eeJpA/profile-displayphoto-scale_200_200/B56ZwPGFU_JIAY-/0/1769779883767?e=1772668800&v=beta&t=0ZLBP84ByjewG4A_5EaHZt_VSO8_enFfgE8ePEcZlfc)r" alt="abhaymadhukarchintamwar" /></a> </p>
+permissions:
+  contents: write
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+> [!NOTE]
+> You can change your GitHub settings to include contributions from private repositories. To change this setting, click `Contribution settings` in the top right of the standard contribution calendar, or click your icon in the top right of the screen, select `Settings` ⇒ `Public profile` ⇒ `Contributions & Activity`, and check `Include private contributions on my profile`.
+>
+> If you want to include additional activities from private repositories, register a personal access token as a secret and set it to the `GITHUB_TOKEN` environment variable in the workflow file. However, in most cases the default `secrets.GITHUB_TOKEN` is sufficient.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+The schedule is set to run once a day by default.
+You can change the scheduled time as you like.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaymadhukarchintamwar&show_icons=true&locale=en&layout=compact" alt="abhaymadhukarchintamwar" /></p>
+This will add the workflow to your repository.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaymadhukarchintamwar&show_icons=true&locale=en" alt="abhaymadhukarchintamwar" /></p>
+#### Environment variables
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaymadhukarchintamwar&" alt="abhaymadhukarchintamwar" /></p> --> -->
+In the sample, only `GITHUB_TOKEN` and `USERNAME` are specified as environment variables, but you can specify the following environment variables:
+
+- `GITHUB_TOKEN` : (required) access token
+- `USERNAME` : (required) target username (or specify with an argument).
+- `MAX_REPOS` : (optional) max repositories, default 100 - since ver. 0.2.0
+- `SETTING_JSON` : (optional) settings json file path. See `sample-settings/*.json` and `src/type.ts` in `yoshi389111/github-profile-3d-contrib` repository for details. - since ver. 0.6.0
+- `GITHUB_ENDPOINT` : (optional) Github GraphQL endpoint. For example, if you want to create a contribution calendar based on your company's GitHub Enterprise activity instead of GitHub.com, set this environment variable. e.g. `https://github.mycompany.com/api/graphql` - since ver. 0.8.0
+- `YEAR` : (optional) For past calendars, specify the year. This is intended to be specified when running the tool from the command line. - since ver. 0.8.0
+
+#### About `GITHUB_TOKEN`
+
+The `secrets.GITHUB_TOKEN` set in the `GITHUB_TOKEN` environment variable in the sample is a special access token automatically created by GitHub.
+
+- GitHub Docs: [Use GITHUB_TOKEN for authentication in workflows](https://docs.github.com/en/actions/tutorials/authenticate-with-github_token)
+
+If you want to generate a contribution calendar for public repositories only, use this value.
+There is no need to create a secret manually.
+
+Also, if you want to include activity in your private repositories in your contribution calendar, check "Include private contributions on my profile" in the "Profile settings" section of "Public profile" in your profile settings.
+
+Furthermore, if you want to include additional activity information from private repositories, create an access token with the appropriate permissions.
+Register that access token as a secret with any name you like (For example, `MY_PERSONAL_ACCESS_TOKEN`).
+However, please note that user-created secrets cannot start with `GITHUB_`.
+
+- GitHub Docs: [Secrets](https://docs.github.com/en/actions/concepts/security/secrets)
+
+Set that secret as the value of the `GITHUB_TOKEN` environment variable.
+
+```diff
+          env:
+-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
++           GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
+```
+
+#### About the time to schedule
+
+In the sample, it is set to start at 18:00 UTC.
+This is because it will run at midnight JST, which is the author's local time.
+
+```yaml
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+```
+
+You can change it to any time you like.
+We recommend midnight (around 3am) your local time.
+However, please note that the time must be specified in UTC.
+
+### Step 3. Manually run this GitHub Action
+
+The first time, run this workflow manually.
+
+- `Actions` -> `GitHub-Profile-3D-Contrib` -> `Run workflow`
+
+The profile images are generated at the following paths:
+
+- `profile-3d-contrib/profile-green-animate.svg`
+- `profile-3d-contrib/profile-green.svg`
+- `profile-3d-contrib/profile-season-animate.svg`
+- `profile-3d-contrib/profile-season.svg`
+- `profile-3d-contrib/profile-south-season-animate.svg`
+- `profile-3d-contrib/profile-south-season.svg`
+- `profile-3d-contrib/profile-night-view.svg`
+- `profile-3d-contrib/profile-night-green.svg`
+- `profile-3d-contrib/profile-night-rainbow.svg`
+- `profile-3d-contrib/profile-gitblock.svg`
+
+If you specify the `SETTING_JSON` environment variable without a `fileName` property in the json file, the following image will be generated:
+
+- `profile-3d-contrib/profile-customize.svg`
+
+You can use these images in your README.md as shown below.
+
+Example: green version
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg)
+
+Example: season version (Northern Hemisphere.)
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg)
+
+Example: season version (Southern Hemisphere.)
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-south-season-animate.svg)
+
+Example: night view version
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-view.svg)
+
+Example: night green version
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg)
+
+Example: night rainbow version
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+
+Example: git block version
+
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg)
+
+### Step 4. Add image to README.md
+
+Add the path to the generated image in your README file.
+
+Example:
+
+```md
+![](./profile-3d-contrib/profile-green-animate.svg)
+```
+
+## How to use (GitHub Actions) - Advanced examples
+
+- [More info in EXAMPLES.md](./EXAMPLES.md)
+
+## How to use (local)
+
+Set the `GITHUB_TOKEN` environment variable to your personal access token.
+
+```sh
+export GITHUB_TOKEN=XXXXXXXXXXXXXXXXXXXXX
+```
+
+Run the following command, replacing `USER_NAME` with your GitHub username or the target username.
+
+```sh
+node_modules/.bin/ts-node src/index.ts USER_NAME
+```
+
+or
+
+```sh
+npm run build
+node . USER_NAME
+```
+
+## License
+
+&copy; 2021 SATO Yoshiyuki. Licensed under the MIT License.
