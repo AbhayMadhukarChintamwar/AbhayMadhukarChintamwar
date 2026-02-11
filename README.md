@@ -1,4 +1,126 @@
  <h1>Hi </h1> 
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio | Your Name</title>
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box;font-family:Arial, Helvetica, sans-serif}
+    body{line-height:1.6;background:#f5f7fb;color:#333}
+    header{background:#111;color:#fff;padding:20px 0}
+    .container{width:90%;max-width:1100px;margin:auto}
+    nav{display:flex;justify-content:space-between;align-items:center}
+    nav h1{font-size:24px}
+    nav ul{display:flex;list-style:none}
+    nav ul li{margin-left:20px}
+    nav ul li a{color:#fff;text-decoration:none;font-size:16px}
+
+    .hero{padding:60px 0;text-align:center}
+    .hero img{width:150px;height:150px;border-radius:50%;object-fit:cover;border:5px solid #111}
+    .hero h2{margin-top:20px;font-size:32px}
+    .hero p{margin-top:10px;color:#555}
+
+    .section{padding:50px 0}
+    .section h2{text-align:center;margin-bottom:30px;font-size:28px}
+
+    .skills{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:20px}
+    .card{background:#fff;padding:20px;border-radius:10px;text-align:center;box-shadow:0 4px 10px rgba(0,0,0,0.08)}
+
+    .projects{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:25px}
+
+    footer{background:#111;color:#fff;text-align:center;padding:20px;margin-top:40px}
+
+    @media(max-width:600px){
+      nav ul{display:none}
+      .hero h2{font-size:24px}
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <nav>
+      <h1>My Portfolio</h1>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <img src="https://via.placeholder.com/150" alt="profile" />
+    <h2>Your Name</h2>
+    <p>AI/ML & Data Science Enthusiast | Web Developer</p>
+  </div>
+</section>
+
+<section id="about" class="section">
+  <div class="container">
+    <h2>About Me</h2>
+    <p style="text-align:center;max-width:700px;margin:auto">
+      I am passionate about Artificial Intelligence, Machine Learning, and Web Development. I love building modern, responsive, and user‑friendly applications.
+    </p>
+  </div>
+</section>
+
+<section id="skills" class="section">
+  <div class="container">
+    <h2>Skills</h2>
+    <div class="skills">
+      <div class="card">HTML</div>
+      <div class="card">CSS</div>
+      <div class="card">JavaScript</div>
+      <div class="card">Python</div>
+      <div class="card">Machine Learning</div>
+      <div class="card">Node.js</div>
+    </div>
+  </div>
+</section>
+
+<section id="projects" class="section">
+  <div class="container">
+    <h2>Projects</h2>
+    <div class="projects">
+      <div class="card">
+        <h3>AI Chatbot</h3>
+        <p>Smart chatbot using NLP and Python.</p>
+      </div>
+      <div class="card">
+        <h3>Portfolio Website</h3>
+        <p>Responsive personal portfolio using HTML & CSS.</p>
+      </div>
+      <div class="card">
+        <h3>ML Prediction App</h3>
+        <p>Machine learning web application.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <div class="container">
+    <h2>Contact</h2>
+    <p style="text-align:center">
+      Email: your@email.com <br />
+      GitHub: github.com/yourusername
+    </p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Your Name | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
+
 <!-- <h1 align="center">Hi 👋, I'm Abhay Chintamwar</h1>
 <h3 align="center">Software Engineer</h3>
 
