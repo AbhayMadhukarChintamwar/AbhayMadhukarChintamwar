@@ -1,11 +1,11 @@
  <div style="
   font-family: 'Segoe UI', sans-serif;
-  text-align:center;
+  text-align: center;
   padding:40px;
   border-radius:20px;
   background: linear-gradient(145deg,#0f2027,#203a43,#2c5364);
   box-shadow: 0 0 40px rgba(0,0,0,0.6);
-  color:white;
+  color: white;
 ">
             <h1 style="
     font-size:48px;
@@ -44,13 +44,13 @@
 
  </div>
         <div style="
-  text-align:center;
+  text-align: center;
   padding:30px;
   border-radius:20px;
   background: linear-gradient(145deg,#0f2027,#203a43,#2c5364);
   box-shadow:0 0 40px rgba(0,0,0,0.7);
-  font-family:Arial;
-  color:white;
+  font-family: Arial;
+  color: white;
 ">
           <h2 style="
     letter-spacing:2px;
@@ -60,9 +60,9 @@
             </h2>
 
   <div style="
-    display:flex;
-    flex-wrap:wrap;
-    justify-content:center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
     gap:25px;
     margin-top:25px;
   ">
