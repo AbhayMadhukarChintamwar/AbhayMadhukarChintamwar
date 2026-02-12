@@ -1,5 +1,192 @@
-<h1 align="center">Hi 👋, I'm Abhay Chintamwar</h1><h3 align="center">Software Engineer</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaymadhukarchintamwar&label=Profile%20views&color=0e75b6&style=flat" alt="abhaymadhukarchintamwar" /> </p><p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhaymadhukarchintamwar" alt="abhaymadhukarchintamwar" /></a> </p><p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p><h3 align="left">Connect with me:</h3><p align="left"></p><h3 align="left">Languages and Tools:</h3><p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><t> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"></t>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <t>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  
-</t> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaymadhukarchintamwar&show_icons=true&locale=en&layout=compact" alt="abhaymadhukarchintamwar" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhaymadhukarchintamwar&show_icons=true&locale=en" alt="abhaymadhukarchintamwar" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaymadhukarchintamwar&" alt="abhaymadhukarchintamwar" /></p>
-0 commit commentsComments0 (0)Lock conversation
+<div style="
+  font-family: 'Segoe UI', sans-serif;
+  text-align:center;
+  padding:40px;
+  border-radius:20px;
+  background: linear-gradient(145deg,#0f2027,#203a43,#2c5364);
+  box-shadow: 0 0 40px rgba(0,0,0,0.6);
+  color:white;
+">
+
+            <!-- 3D Name Heading -->
+            <h1 style="
+    font-size:48px;
+    text-shadow: 3px 3px 10px rgba(0,0,0,0.8);
+    letter-spacing:2px;
+  ">
+                👋 Abhay Chintamwar
+            </h1>
+
+            <!-- Animated Typing -->
+            <img
+                src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Node.js+Developer" />
+
+            <br><br>
+
+            <!-- Glass Card -->
+            <div style="
+    backdrop-filter: blur(15px);
+    background: rgba(255,255,255,0.05);
+    padding:25px;
+    border-radius:15px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+    margin-bottom:30px;
+  ">
+                <h2>🚀 About Me</h2>
+                <p style="color:#ddd; max-width:600px; margin:auto;">
+                    Passionate AI & Machine Learning Developer who loves building
+                    intelligent applications, exploring Deep Learning, and creating
+                    modern full-stack projects.
+                </p>
+            </div>
+
+            <!-- GitHub Stats -->
+
+
+            <!-- Streak -->
+            <h2>🔥 Contribution Streak</h2>
+
+            <img height="170"
+                src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true" />
+            <br><br>
+
+            <!-- Top Languages -->
+
+
+            <!-- Skills -->
+            <h2>⚡ Tech Stack</h2>
+
+            <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,js,html,css,git,github,tensorflow" />
+
+            <br><br>
+
+        </div>
+        <div style="
+  text-align:center;
+  padding:30px;
+  border-radius:20px;
+  background: linear-gradient(145deg,#0f2027,#203a43,#2c5364);
+  box-shadow:0 0 40px rgba(0,0,0,0.7);
+  font-family:Arial;
+  color:white;
+">
+
+            <h2 style="
+    letter-spacing:2px;
+    text-shadow:3px 3px 10px black;
+  ">
+                🚀 AI & Data Science Skills
+            </h2>
+
+            <div style="
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+    gap:25px;
+    margin-top:25px;
+  ">
+
+                <!-- Python -->
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="70" style="padding:15px; background:white; border-radius:15px;
+         box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
+
+                <!-- NumPy -->
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919436.png" width="70" style="padding:15px; background:white; border-radius:15px;
+         box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
+
+                <!-- Pandas -->
+                <img src="https://cdn-icons-png.flaticon.com/512/919/919468.png" width="70" style="padding:15px; background:white; border-radius:15px;
+         box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
+
+                <!-- AI -->
+                <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70" style="padding:15px; background:white; border-radius:15px;
+         box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
+
+                <!-- Machine Learning -->
+                <img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="70" style="padding:15px; background:white; border-radius:15px;
+         box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
+
+                <!-- Deep Learning -->
+                <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="70" style="padding:15px; background:white; border-radius:15px;
+         box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
+
+                <!-- Data Science -->
+                <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="70" style="padding:15px; background:white; border-radius:15px;
+         box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
+
+            </div>
+
+            <p style="margin-top:25px; color:#ccc;">
+                ✨ AI • ML • Deep Learning • Data Science Stack
+            </p>
+
+        </div>
+
+
+
+
+        <!-- Footer -->
+
+        <div style="
+  font-family: Arial, sans-serif;
+  text-align:center;
+  padding:30px;
+  background: linear-gradient(145deg,#0f2027,#203a43,#2c5364);
+  border-radius:20px;
+  box-shadow:0 0 40px rgba(0,0,0,0.7);
+  color:white;
+">
+
+            <h2 style="
+    font-size:32px;
+    letter-spacing:2px;
+    text-shadow:3px 3px 15px black;
+  ">
+                🔥 3D Contribution Activity
+            </h2>
+
+            <!-- Contribution Card -->
+            <div style="
+    margin-top:25px;
+    padding:25px;
+    border-radius:15px;
+    background: rgba(255,255,255,0.05);
+    backdrop-filter: blur(15px);
+    box-shadow: 0 10px 40px rgba(0,0,0,0.8);
+    transform: perspective(800px) rotateX(5deg);
+  ">
+
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaymadhukarchintamwar&theme=tokyo-night&hide_border=true"
+                    style="width:100%; border-radius:10px; box-shadow:0 0 20px rgba(0,0,0,0.8);" />
+
+            </div>
+
+            <br>
+            <!-- Social -->
+            <h2>🌐 Connect With Me</h2>
+
+            <a href="https://github.com/abhaymadhukarchintamwar">
+                <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+            </a>
+
+            <a href="https://www.linkedin.com/in/abhay-chintamwar-604421233/">
+                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+            </a>
+            <a href="https://leetcode.com/u/abhaychintamwar85/">
+                <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=linkedin">
+            </a>
+            <a href="https://www.codechef.com/users/abhay_ch_0803">
+                <img src="https://img.shields.io/badge/codechef-yellow?style=for-the-badge&logo=linkedin">
+            </a>
+
+
+            <br><br>
+
+
+
+            <br>
+
+
+
+
+        </div>
