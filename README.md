@@ -12,6 +12,7 @@
     font-size:48px;
     text-shadow: 3px 3px 10px rgba(0,0,0,0.8);
     text-align: center;
+             color: red;
     letter-spacing:13px;
   ">
                 👋 Abhay Chintamwar
