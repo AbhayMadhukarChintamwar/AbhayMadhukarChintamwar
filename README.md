@@ -11,8 +11,8 @@
             <h1 style="
     font-size:48px;
     text-shadow: 3px 3px 10px rgba(0,0,0,0.8);
-             text-align: center;
-    letter-spacing:2px;
+    text-align: center;
+    letter-spacing:13px;
   ">
                 👋 Abhay Chintamwar
             </h1>
