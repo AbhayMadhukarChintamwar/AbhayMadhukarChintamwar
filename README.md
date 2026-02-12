@@ -1,4 +1,4 @@
-<div style="
+ <div style="
   font-family: 'Segoe UI', sans-serif;
   text-align:center;
   padding:40px;
@@ -7,8 +7,6 @@
   box-shadow: 0 0 40px rgba(0,0,0,0.6);
   color:white;
 ">
-
-            <!-- 3D Name Heading -->
             <h1 style="
     font-size:48px;
     text-shadow: 3px 3px 10px rgba(0,0,0,0.8);
@@ -16,22 +14,17 @@
   ">
                 👋 Abhay Chintamwar
             </h1>
-
-            <!-- Animated Typing -->
             <img
                 src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Node.js+Developer" />
 
-            <br><br>
-
-            <!-- Glass Card -->
-            <div style="
-    backdrop-filter: blur(15px);
-    background: rgba(255,255,255,0.05);
-    padding:25px;
-    border-radius:15px;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.6);
-    margin-bottom:30px;
-  ">
+  <br><br>
+  <div style="
+   backdrop-filter: blur(15px);
+   background: rgba(255,255,255,0.05);
+   padding:25px;
+   border-radius:15px;
+   box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+   margin-bottom:30px; ">
                 <h2>🚀 About Me</h2>
                 <p style="color:#ddd; max-width:600px; margin:auto;">
                     Passionate AI & Machine Learning Developer who loves building
@@ -39,28 +32,17 @@
                     modern full-stack projects.
                 </p>
             </div>
-
-            <!-- GitHub Stats -->
-
-
-            <!-- Streak -->
             <h2>🔥 Contribution Streak</h2>
 
-            <img height="170"
-                src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true" />
+   <img height="170"            src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true" />
             <br><br>
-
-            <!-- Top Languages -->
-
-
-            <!-- Skills -->
             <h2>⚡ Tech Stack</h2>
 
-            <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,js,html,css,git,github,tensorflow" />
+   <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,js,html,css,git,github,tensorflow" />
 
-            <br><br>
+  <br><br>
 
-        </div>
+ </div>
         <div style="
   text-align:center;
   padding:30px;
@@ -70,64 +52,42 @@
   font-family:Arial;
   color:white;
 ">
-
-            <h2 style="
+          <h2 style="
     letter-spacing:2px;
     text-shadow:3px 3px 10px black;
   ">
                 🚀 AI & Data Science Skills
             </h2>
 
-            <div style="
+  <div style="
     display:flex;
     flex-wrap:wrap;
     justify-content:center;
     gap:25px;
     margin-top:25px;
   ">
-
-                <!-- Python -->
                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="70" style="padding:15px; background:white; border-radius:15px;
          box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
-
-                <!-- NumPy -->
                 <img src="https://cdn-icons-png.flaticon.com/512/919/919436.png" width="70" style="padding:15px; background:white; border-radius:15px;
          box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
-
-                <!-- Pandas -->
                 <img src="https://cdn-icons-png.flaticon.com/512/919/919468.png" width="70" style="padding:15px; background:white; border-radius:15px;
          box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
-
-                <!-- AI -->
                 <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70" style="padding:15px; background:white; border-radius:15px;
          box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
-
-                <!-- Machine Learning -->
                 <img src="https://cdn-icons-png.flaticon.com/512/4149/4149678.png" width="70" style="padding:15px; background:white; border-radius:15px;
          box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
-
-                <!-- Deep Learning -->
-                <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="70" style="padding:15px; background:white; border-radius:15px;
+   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="70" style="padding:15px; background:white; border-radius:15px;
          box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
-
-                <!-- Data Science -->
                 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="70" style="padding:15px; background:white; border-radius:15px;
          box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
-
-            </div>
-
+ </div>
             <p style="margin-top:25px; color:#ccc;">
                 ✨ AI • ML • Deep Learning • Data Science Stack
             </p>
 
-        </div>
+   </div>
 
-
-
-
-        <!-- Footer -->
-
-        <div style="
+  <div style="
   font-family: Arial, sans-serif;
   text-align:center;
   padding:30px;
@@ -137,7 +97,7 @@
   color:white;
 ">
 
-            <h2 style="
+  <h2 style="
     font-size:32px;
     letter-spacing:2px;
     text-shadow:3px 3px 15px black;
@@ -145,8 +105,8 @@
                 🔥 3D Contribution Activity
             </h2>
 
-            <!-- Contribution Card -->
-            <div style="
+
+  <div style="
     margin-top:25px;
     padding:25px;
     border-radius:15px;
@@ -156,20 +116,19 @@
     transform: perspective(800px) rotateX(5deg);
   ">
 
-                <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaymadhukarchintamwar&theme=tokyo-night&hide_border=true"
-                    style="width:100%; border-radius:10px; box-shadow:0 0 20px rgba(0,0,0,0.8);" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaymadhukarchintamwar&theme=tokyo-night&hide_border=true"
+        style="width:100%; border-radius:10px; box-shadow:0 0 20px rgba(0,0,0,0.8);" />
 
-            </div>
+   </div>
 
-            <br>
-            <!-- Social -->
+  <br>
             <h2>🌐 Connect With Me</h2>
 
-            <a href="https://github.com/abhaymadhukarchintamwar">
+   <a href="https://github.com/abhaymadhukarchintamwar">
                 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
             </a>
 
-            <a href="https://www.linkedin.com/in/abhay-chintamwar-604421233/">
+  <a href="https://www.linkedin.com/in/abhay-chintamwar-604421233/">
                 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
             </a>
             <a href="https://leetcode.com/u/abhaychintamwar85/">
@@ -180,13 +139,13 @@
             </a>
 
 
-            <br><br>
+   <br><br>
 
 
 
-            <br>
+   <br>
 
 
 
 
-        </div>
+  </div>
