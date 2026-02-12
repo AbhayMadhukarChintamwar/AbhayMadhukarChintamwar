@@ -1,4 +1,5 @@
  <div style="
+  align-item: center;
   font-family: 'Segoe UI', sans-serif;
   text-align: center;
   padding:40px;
@@ -10,6 +11,7 @@
             <h1 style="
     font-size:48px;
     text-shadow: 3px 3px 10px rgba(0,0,0,0.8);
+             text-align: center;
     letter-spacing:2px;
   ">
                 👋 Abhay Chintamwar
