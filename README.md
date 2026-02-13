@@ -15,8 +15,8 @@
              color: red;
     letter-spacing:13px;
   ">
-               <p style="
-                color: red">👋 Abhay Chintamwar </p>    <img
+               <p style="size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=ABHAY+M.+CHINTAMWAR;"
+                >👋 Abhay Chintamwar </p>    <img
                 src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=ABHAY+M.+CHINTAMWAR;" />
             </h1>
             <img
