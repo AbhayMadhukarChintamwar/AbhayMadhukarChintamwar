@@ -24,10 +24,28 @@
    margin-bottom:30px; ">
                 <h2>🚀 About Me</h2>
                 <p style="color:#ddd; max-width:600px; margin:auto;">
-                    Passionate AI & Machine Learning Developer who loves building
-                    intelligent applications, exploring Deep Learning, and creating
-                    modern full-stack projects.
-                </p>
+                   👋 Hi, I'm **Abhay Madhukar Chintamwar**
+
+💻 **Passionate Programmer | Data Science & AI/ML Learner**
+
+🚀 I am a dedicated tech enthusiast who loves building scalable applications and exploring intelligent systems. I enjoy solving complex problems using efficient algorithms and modern technologies.
+
+### 🔹 Skills
+
+* **Programming:** Java, Python, C++, DSA
+* **Backend & Tech Stack:** Node.js, MongoDB, MySQL
+* **Data Science:** Python, SQL, Pandas, NumPy
+* **AI/ML:** Machine Learning, Deep Learning, Data Analysis
+
+### 🔹 About Me
+
+* 🌱 Currently learning **Data Science, AI, and Deep Learning**
+* 🧠 Strong interest in **problem solving & algorithms**
+* ⚡ Love working on real-world projects and improving coding skills daily
+* 🎯 Goal: To become a **skilled AI/ML & Data Science Engineer**
+
+📌 *Always learning, always building, always growing.*
+    </p>
             </div>
             <h2>🔥 Contribution Streak</h2>
 
