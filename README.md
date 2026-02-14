@@ -152,6 +152,9 @@
             <a href="https://www.kaggle.com/abhaychintamwar">
                 <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=linkedin">
             </a>
+            <a href="codechef.com/users/abhay_ch_0803">
+                <img src="https://img.shields.io/badge/Codechef-grey?style=for-the-badge&logo=linkedin">
+            </a>
 
 
    <br><br>
