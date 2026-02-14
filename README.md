@@ -149,8 +149,8 @@
             <a href="https://leetcode.com/u/abhaychintamwar85/">
                 <img src="https://img.shields.io/badge/Leetcode-red?style=for-the-badge&logo=linkedin">
             </a>
-            <a href="https://www.codechef.com/users/abhay_ch_0803">
-                <img src="https://img.shields.io/badge/codechef-yellow?style=for-the-badge&logo=linkedin">
+            <a href="https://www.kaggle.com/abhaychintamwar">
+                <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=linkedin">
             </a>
 
 
