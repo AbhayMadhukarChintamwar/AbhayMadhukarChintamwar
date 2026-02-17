@@ -3,7 +3,7 @@
   font-family: 'Segoe UI', sans-serif;
   text-align: center;
   padding:40px;
-  border-radius:20px;
+  border-radius:20px;  
   background: linear-gradient(145deg,#0f2027,#203a43,#2c5364);
   box-shadow: 0 0 40px rgba(0,0,0,0.6);
   color: white; 
