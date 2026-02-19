@@ -10,7 +10,8 @@ border-radius:20px;
  color: white; 
 ">
 <p align="center">
-  <img src="https://github.com/abhaymadhukarchintamwar.png" width="150" border="30"/>
+  <img src="https://github.com/abhaymadhukarchintamwar.png" width="150" style=" border-radius:30px;
+   "/>
 </p>
 
      
