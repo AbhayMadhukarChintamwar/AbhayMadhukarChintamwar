@@ -9,8 +9,8 @@ border-radius:20px;
   box-shadow: 0 0 40px rgba(0,0,0,0.6);
  color: white; 
 ">
-<p align="center">
-  <img src="https://github.com/abhaymadhukarchintamwar.png" width="150" style=" border-radius:30px;
+<p align="center" style=" border-radius:30px;>
+  <img src="https://github.com/abhaymadhukarchintamwar.png" width="150" 
    "/>
 </p>
 
