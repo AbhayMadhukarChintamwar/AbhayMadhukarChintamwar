@@ -15,7 +15,7 @@ border-radius:20px;
   <img
        src="https://readme-typing-svg.herokuapp.com?size=40&color=FOFFFF&center=true&vCenter=true&width=600&lines=ABHAY+M.+CHINTAMWAR;" />
   <img
-                src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Node.js+Developer;Java+Developer;" />
+                src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Node.js+Developer;Java+Developer;Backend+Developer" />
 
  <br><br>
   <div style="
