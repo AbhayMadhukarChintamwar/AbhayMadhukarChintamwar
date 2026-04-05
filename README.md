@@ -48,7 +48,7 @@ border-radius:20px;
   * 🎯 Goal: To become a **skilled AI/ML & Data Science Engineer**
 
 📌 *Always learning, always building, always growing.*
-   </p>
+   </p> 
            </div>
            <h2>🔥 Contribution Streak</h2>
 
