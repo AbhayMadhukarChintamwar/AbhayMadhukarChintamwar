@@ -25,7 +25,7 @@ border-radius:20px;
    border-radius:15px;   box-shadow: 0 8px 32px rgba(0,0,0,0.6);
    margin-bottom:30px; ">               <h2>🚀 About Me</h2>
                 <p style="color:#ddd; max-width:600px; margin:auto;">
-                  👋 Hi, I'm **Abhay Madhukar Chintamwar**
+                  👋 Hi, I'm Abhay jhjhj  Madhukar Chintamwar
 
 💻 **Passionate Programmer | Data Science & AI/ML Learner**
 
