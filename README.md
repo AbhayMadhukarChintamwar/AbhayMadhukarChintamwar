@@ -52,7 +52,7 @@ border-radius:20px;
 <div align="center">
   <h2>⭐ Total GitHub Stars</h2>
 
-  <img src="https://img.shields.io/github/stars/abhaymadhukarchintamwarE?style=for-the-badge&color=yellow" 
+  <img src="https://img.shields.io/github/stars/abhaymadhukarchintamwar?style=for-the-badge&color=yellow" 
        alt="Total Stars"/>
 </div>
 
