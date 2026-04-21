@@ -48,6 +48,9 @@ border-radius:20px;
    </p> 
            </div>
            <h2>🔥 Contribution Streak</h2>
+           <img src="https://github-readme-stats.vercel.app/api?username=abhaymadhukarchintamwar&show_icons=true&theme=radical" 
+       alt="GitHub Stats" style="width: 60%; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" />
+
 
    <img height="170"            src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true" />
             <br><br>
