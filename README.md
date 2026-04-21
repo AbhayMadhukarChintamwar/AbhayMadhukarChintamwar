@@ -139,12 +139,7 @@ border-radius:20px;
  </div>
 
  <br>
-            <h2>🌐 Connect With Me</h2>
-
-  <a href="https://github.com/abhaymadhukarchintamwar">
-                <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-           </a>
-
+       
  <a href="https://www.linkedin.com/in/abhay-chintamwar-604421233/">
                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
            </a>
@@ -165,7 +160,14 @@ border-radius:20px;
            
 
             
+  <h2>🌐 Connect With Me</h2>
 
+  <a href="https://github.com/abhaymadhukarchintamwar">
+                <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+           </a>
+ <a href="https://mail.google.com/mail/u/0/#inbox">
+                <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+           </a>
 
   <br><br>
   
