@@ -21,8 +21,11 @@ border-radius:20px;
    background: rgba(255,255,255,0.05);~   padding:25px;
    border-radius:15px;   box-shadow: 0 8px 32px rgba(0,0,0,0.6);
    margin-bottom:30px; ">  
-   <h2>Connect with me</h2>
-   <p>Emai: abhaychintamwar85@gmail.com</p>
+  
+   <div align="center">
+  <h3>📩 Contact Me</h3>
+  <a href="mailto:your-abhaychintamwar85@gmail.com">Send me an Email</a>
+</div>
    
    <h2>🚀 About Me</h2>
                 <p style="color:#ddd; max-width:600px; margin:auto;">
