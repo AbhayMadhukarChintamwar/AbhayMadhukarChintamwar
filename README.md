@@ -165,8 +165,8 @@ border-radius:20px;
   <a href="https://github.com/abhaymadhukarchintamwar">
                 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
            </a>
- <a href="https://mail.google.com/mail/u/0/#inbox">
-                <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+ <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXLCdBnsbtDmSJjVtFGxnGKxBZSVtgmCWBXhqnVWJBMQZsLNmmFPRlrTXgFXrPRhxkxvX">
+                <img src="https://img.shields.io/badge/EMail-black?style=for-the-badge&logo=github">
            </a>
 
   <br><br>
