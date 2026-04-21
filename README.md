@@ -24,7 +24,7 @@ border-radius:20px;
   
    <div align="center">
   <h3>📩 Contact Me</h3>
-  <a href="mailto:your-abhaychintamwar85@gmail.com">Send me an Email</a>
+  <a href="mailto:abhaychintamwar85@gmail.com">Send me an Email</a>
 </div>
    
    <h2>🚀 About Me</h2>
