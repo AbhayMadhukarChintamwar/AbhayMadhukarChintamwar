@@ -20,7 +20,11 @@ border-radius:20px;
    backdrop-filter: blur(15px);
    background: rgba(255,255,255,0.05);~   padding:25px;
    border-radius:15px;   box-shadow: 0 8px 32px rgba(0,0,0,0.6);
-   margin-bottom:30px; ">               <h2>🚀 About Me</h2>
+   margin-bottom:30px; ">  
+   <h2>Connect with me</h2>
+   <p>Emai: abhaychintamwar85@gmail.com</p>
+   
+   <h2>🚀 About Me</h2>
                 <p style="color:#ddd; max-width:600px; margin:auto;">
                   👋 Hi, I'm **Abhay Madhukar Chintamwar**
 
@@ -139,7 +143,11 @@ border-radius:20px;
  </div>
 
  <br>
-       
+         
+
+  <a href="https://github.com/abhaymadhukarchintamwar">
+                <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+           </a>
  <a href="https://www.linkedin.com/in/abhay-chintamwar-604421233/">
                <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
            </a>
@@ -160,14 +168,8 @@ border-radius:20px;
            
 
             
-  <h2>🌐 Connect With Me</h2>
 
-  <a href="https://github.com/abhaymadhukarchintamwar">
-                <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-           </a>
- <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXLCdBnsbtDmSJjVtFGxnGKxBZSVtgmCWBXhqnVWJBMQZsLNmmFPRlrTXgFXrPRhxkxvX">
-                <img src="https://img.shields.io/badge/EMail-black?style=for-the-badge&logo=github">
-           </a>
+
 
   <br><br>
   
