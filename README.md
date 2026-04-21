@@ -155,11 +155,13 @@ border-radius:20px;
                 <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=linkedin">
            </a>
            <a href="https://www.codechef.com/users/abhay_ch_0803">
+               <img src="https://img.shields.io/badge/CodeChef-Yellow?style=for-the-badge&logo=linkedin">
+            </a>
+              <a href="https://www.codechef.com/users/abhay_ch_0803](https://www.geeksforgeeks.org/profile/abhaychintamwar85?tab=activity">
                <img src="https://img.shields.io/badge/GFG-green?style=for-the-badge&logo=linkedin">
             </a>
-            <a href="https://www.codechef.com/users/abhay_ch_0803">
-               <img src="https://img.shields.io/badge/Codechef-yellow?style=for-the-badge&logo=linkedin](https://www.geeksforgeeks.org/profile/abhaychintamwar85?tab=activity">
-            </a>
+          
+           
 
             
 
