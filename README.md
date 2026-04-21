@@ -57,7 +57,15 @@ border-radius:20px;
 </div>
 
    <img height="170"            src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true" />
-            <br><br>
+            <br><br><div align="center">
+
+  <h2>🏆 GitHub Achievements</h2>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=abhaymadhukarchintamwar&theme=radical&no-frame=true&margin-w=10" 
+       alt="GitHub Trophies" 
+       style="width: 90%; border-radius: 12px;" />
+
+</div>
            <h2>⚡ Tech Stack</h2>
 
  <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,js,html,css,git,github,tensorflow" />
