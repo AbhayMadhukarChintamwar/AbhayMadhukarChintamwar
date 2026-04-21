@@ -49,23 +49,10 @@ border-radius:20px;
            </div>
            <h2>🔥 Contribution Streak</h2>
            <img src="https://github-readme-stats.vercel.app/api?username=abhaymadhukarchintamwar&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 60%; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" />
-<div align="center">
-  <h2>⭐ Total GitHub Stars</h2>
 
-  <img src="https://img.shields.io/github/stars/abhaymadhukarchintamwar?style=for-the-badge&color=yellow" 
-       alt="Total Stars"/>
-</div>
 
    <img height="170"            src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true" />
             <br><br><div align="center">
-
-  <h2>🏆 GitHub Achievements</h2>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=abhaymadhukarchintamwar&theme=radical&no-frame=true&margin-w=10" 
-       alt="GitHub Trophies" 
-       style="width: 90%; border-radius: 12px;" />
-
-</div>
            <h2>⚡ Tech Stack</h2>
 
  <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,js,html,css,git,github,tensorflow" />
