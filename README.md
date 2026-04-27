@@ -15,7 +15,7 @@ border-radius:20px;
   <img
        src="https://readme-typing-svg.herokuapp.com?size=40&color=FOFFFF&center=true&vCenter=true&width=600&lines=ABHAY+M.+CHINTAMWAR;" />
   <img
-                src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Node.js+Developer;Java+Developer;Backend+Developer" />
+                src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Java+Developer;Backend+Developer" />
 
  <br><br>
   <div style="
@@ -30,12 +30,12 @@ border-radius:20px;
    
    <h2>🚀 About Me</h2>
                 <p style="color:#ddd; max-width:600px; margin:auto;">
-                  👋 Hi, I'm **Abhay Madhukar Chintamwar**
+                  👋 Hi, I'm Abhay Madhukar Chintamwar
          
   
 
 
-💻 **Passionate Programmer | Data Science & AI/ML Learner**
+💻 Passionate Programmer | Data Science & AI/ML Learner
 
 
 
@@ -43,10 +43,12 @@ border-radius:20px;
 
 ### 🔹 Skills
 
-* **Programming:** Java, Python, C++, DSA
-* **Backend & Tech Stack:** Node.js, MongoDB, MySQL
+* **Programming:** Java, Python, C++
+* **Backend & Tech Stack:** MySQL
 * **Data Science:** Python, SQL, Pandas, NumPy
 * **AI/ML:** Machine Learning, Deep Learning, Data Analysis
+* **Tech Stack:** Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
+
 
 ### 🔹 About Me
 
