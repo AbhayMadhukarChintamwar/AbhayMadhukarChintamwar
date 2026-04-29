@@ -25,7 +25,6 @@ border-radius:20px;
    
   <h3>📩 Contact Me</h3>
   <a href="mailto:abhaychintamwar85@gmail.com">abhaychintamar85@gmail.com</a>
-
    
    <h2>🚀 About Me</h2>
                 <p style="color:#ddd; max-width:600px; margin:auto;">
