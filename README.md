@@ -46,7 +46,6 @@ border-radius:20px;
 * **AI/ML:** Machine Learning, Deep Learning, Data Analysis
 * **Tech Stack:** Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
 
-
 ### 🔹 About Me
 
 * 🌱 Currently learning **Data Science, AI, and Deep Learning**
