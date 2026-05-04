@@ -14,7 +14,6 @@ border-radius:20px;
        src="https://readme-typing-svg.herokuapp.com?size=40&color=FOFFFF&center=true&vCenter=true&width=600&lines=ABHAY+M.+CHINTAMWAR;" />
   <img
                 src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer;Java+Developer;Backend+Developer" />
-
  <br><br>
   <div style="
    backdrop-filter: blur(15px);
