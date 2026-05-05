@@ -122,7 +122,7 @@ border-radius:20px;
   color:white;
 ">
 
-<!-- <h2 style="
+<h2 style="
    font-size:32px;
     letter-spacing:2px;
    text-shadow:3px 3px 15px black;
@@ -141,10 +141,10 @@ border-radius:20px;
     transform: perspective(800px) rotateX(5deg);
   ">
 
- <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaymadhukarchintamwar&theme=tokyo-night&hide_border=true"
-        style="width:100%; border-radius:10px; box-shadow:0 0 20px rgba(0,0,0,0.8);" />-->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhaymadhukarchintamwar&theme=tokyo-night&hide_border=true"
+        style="width:100%; border-radius:10px; box-shadow:0 0 20px rgba(0,0,0,0.8);" />
 
- </div> -->
+ </div> 
 
  <br>
          
