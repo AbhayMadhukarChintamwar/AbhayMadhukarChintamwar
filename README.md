@@ -8,7 +8,7 @@ border-radius:20px;
  background: linear-gradient(145deg,#0f2027,#203a43,#2c5364);
   box-shadow: 0 0 40px rgba(0,0,0,0.6);
  color: white; 
-">
+"> 
  
   <img
        src="https://readme-typing-svg.herokuapp.com?size=40&color=FOFFFF&center=true&vCenter=true&width=600&lines=ABHAY+M.+CHINTAMWAR;" />
