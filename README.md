@@ -36,7 +36,7 @@ border-radius:20px;
 
 🚀 I am a dedicated tech enthusiast who loves building scalable applications and exploring intelligent systems. I enjoy solving complex problems using efficient algorithms and modern technologies.
 
-### 🔹 Skills
+### 🔹 Skills 
 
 * **Programming:** Java, Python, C++
 * **Backend & Tech Stack:** MySQL
