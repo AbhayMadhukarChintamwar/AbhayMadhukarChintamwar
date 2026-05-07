@@ -28,7 +28,6 @@ border-radius:20px;
                 <p style="color:#ddd; max-width:600px; margin:auto;">
                   👋 Hi, I'm Abhay Madhukar Chintamwar
          
-  
 
 
 💻 Passionate Programmer | Data Science & AI/ML Learner
