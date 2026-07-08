@@ -32,9 +32,7 @@ border-radius:20px;
 
 💻 Passionate Programmer | Data Science & AI/ML Learner
 
-
-
-🚀 I am a dedicated tech enthusiast who loves building scalable applications and exploring intelligent systems. I enjoy solving complex problems using efficient algorithms and modern technologies.
+I am an aspiring Machine Learning Engineer with a strong passion for developing data-driven solutions that transform complex data into meaningful insights and intelligent applications. I enjoy applying analytical thinking, statistical techniques, and machine learning algorithms to solve real-world challenges while building scalable and impactful AI solutions. Committed to continuous learning and innovation, I am dedicated to expanding my expertise in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Large Language Models (LLMs) to contribute effectively to the evolving field of Artificial Intelligence.
 
 ### 🔹 Skills 
 
