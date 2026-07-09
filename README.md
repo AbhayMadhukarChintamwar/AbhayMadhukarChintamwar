@@ -56,7 +56,7 @@ I am an aspiring Machine Learning Engineer with a strong passion for developing 
            <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhaymadhukarchintamwar&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 60%; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.2);" />  -->
 
 
-   <img height="170"            src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true" />
+   <img height="170" src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true" />
             <br><br><div align="center">
            <h2>⚡ Tech Stack</h2>
 
