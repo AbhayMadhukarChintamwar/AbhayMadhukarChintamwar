@@ -50,19 +50,9 @@ I am an aspiring Machine Learning Engineer with a strong passion for developing 
 
 📌 *Always learning, always building, always growing.*
    </p>
-   <div align="center">
-    <h2>🔥 Contribution Streak</h2>
    
-
-  <img
-    src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</div>
   </div>
-           
-
+    <h2>🔥 Contribution Streak</h2>
 
    <img height="170" src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true"/>
             <br><br><div align="center">
