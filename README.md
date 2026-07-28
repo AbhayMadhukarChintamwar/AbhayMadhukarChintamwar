@@ -49,9 +49,18 @@ I am an aspiring Machine Learning Engineer with a strong passion for developing 
   * 🎯 Goal: To become a **skilled AI/ML & Data Science Engineer**
 
 📌 *Always learning, always building, always growing.*
-   </p> 
-           </div>
-           <h2>🔥 Contribution Streak</h2>
+   </p>
+   <div align="center">
+    <h2>🔥 Contribution Streak</h2>
+   
+
+  <img
+    src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwarE&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>
+  </div>
            
 
 
