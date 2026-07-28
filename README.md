@@ -55,7 +55,7 @@ I am an aspiring Machine Learning Engineer with a strong passion for developing 
    
 
   <img
-    src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwarE&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=abhaymadhukarchintamwar&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 
