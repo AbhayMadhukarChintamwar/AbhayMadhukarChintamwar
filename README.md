@@ -9,7 +9,7 @@ border-radius:20px;
   box-shadow: 0 0 40px rgba(0,0,0,0.6);
  color: white; 
 ">
-  <img 
+  <img
        src="https://readme-typing-svg.herokuapp.com?size=40&color=FOFFFF&center=true&vCenter=true&width=600&lines=ABHAY+M.+CHINTAMWAR;" />
   <img 
                 src="https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+ML+Engineer;Data+Science+Enthusiast;Deep+Learning+Explorer" />
