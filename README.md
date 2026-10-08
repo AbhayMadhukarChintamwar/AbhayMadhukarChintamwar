@@ -57,7 +57,7 @@ I am an aspiring Machine Learning Engineer with a strong passion for developing 
             <br><br><div align="center">
            <h2>⚡ Tech Stack</h2>
 
- <img src="https://skillicons.dev/icons?i=python,git,github,tensorflow,scikit-learn,pytorch" />
+ <img src="https://skillicons.dev/icons?i=python,git,github,tensorflow,scikitlearn,pytorch" />
 
  <br><br>
 
