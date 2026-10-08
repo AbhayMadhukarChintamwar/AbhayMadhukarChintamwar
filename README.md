@@ -85,7 +85,7 @@ I am an aspiring Machine Learning Engineer with a strong passion for developing 
     gap:25px;
     margin-top:25px;
   ">
-  <!-- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="70" style="padding:15px; background:white; border-radius:15px;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="70" style="padding:15px; background:white; border-radius:15px;
         box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
                <img src="https://cdn-icons-png.flaticon.com/512/919/919436.png" width="70" style="padding:15px; background:white; border-radius:15px;
       box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
@@ -98,7 +98,7 @@ I am an aspiring Machine Learning Engineer with a strong passion for developing 
    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="70" style="padding:15px; background:white; border-radius:15px;
          box-shadow:0 10px 25px rgba(0,0,0,0.7);" />
                 <img src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" width="70" style="padding:15px; background:white; border-radius:15px;
-         box-shadow:0 10px 25px rgba(0,0,0,0.7);" /> -->
+         box-shadow:0 10px 25px rgba(0,0,0,0.7);" /> 
  </div>
             <p style="margin-top:25px; color:#ccc;">
                 ✨ AI • ML • Deep Learning • Data Science Stack
